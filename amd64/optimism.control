@@ -1,0 +1,5 @@
+Package: optimism
+Version: 0.16
+Architecture: amd64
+Maintainer: Emma Anderson <workeandrs@gmail.com>
+Description: A text-based adventure I made with an estranged friend who I miss dearly.

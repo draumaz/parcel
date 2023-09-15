@@ -1,0 +1,9 @@
+Package: pfetch
+Version: 0.6.0
+Maintainer: Emma Anderson <workeandrs@gmail.com>
+Section: utils
+Priority: optional
+Standards-Version: 4.3.0
+Homepage: https://github.com/dylanaraps/pfetch
+Architecture: all
+Description: A pretty system information tool written in POSIX sh.

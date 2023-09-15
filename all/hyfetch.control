@@ -1,0 +1,9 @@
+Package: hyfetch
+Version: 1.4.10
+Maintainer: Emma Anderson <workeandrs@gmail.com>
+Section: utils
+Priority: optional
+Standards-Version: 4.3.0
+Homepage: https://github.com/hykilpikonna/hyfetch
+Architecture: all
+Description: Neofetch with LGBTQ+ pride flags!

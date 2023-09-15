@@ -1,0 +1,5 @@
+Package: butterfly
+Version: 0.16.06
+Architecture: amd64
+Maintainer: Emma Anderson <workeandrs@gmail.com>
+Description: a text-based TBBS with fantasy creatures, projectile weaponry, poisonous elixirs, and more!

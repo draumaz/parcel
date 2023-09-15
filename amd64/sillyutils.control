@@ -1,0 +1,5 @@
+Package: sillyutils
+Version: 1.0-r8
+Architecture: amd64
+Maintainer: Emma Anderson <workeandrs@gmail.com>
+Description: like coreutils, but extremely silly.
